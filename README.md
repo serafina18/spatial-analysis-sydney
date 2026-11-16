@@ -48,11 +48,3 @@ Each component (business density, transport access, school proximity, nearby fac
 ## Methods and tools
 
 Python (Jupyter), SQL, PostgreSQL, PostGIS, spatial joins and indexing, z-score and winsorized normalisation, Pearson and Spearman correlation, map and statistical visualisation
-
-## Team
-
-DATA2001 group assignment (Class 15, Group 3), University of Sydney.
-
-Serafina Aurelia, Nathanael Prabowo, Vardaan Anand
-
-**My contribution (Serafina Aurelia):** [describe your part, e.g. database design, the scoring formula, correlation analysis, visualisations or report sections]
